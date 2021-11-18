@@ -1,6 +1,6 @@
 # TPLinker-NER
-
-> 喜欢本项目的话，欢迎点击右上角的**star**，感谢每一个点赞的你。
+来源，这个github是我用来毕设尝试跑代码的
+https://github.com/gaohongkui/TPLinker-NER
 
 ## 项目介绍
 
